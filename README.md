@@ -1,4 +1,8 @@
 # Stream and visualize vehicle telemetry using OBDII, Kafka and Superset
+## Near realtime Superset dashboard for vehicle telemetry obtained using OBDII
+
+https://github.com/planck-length/vehicle-telemetry-kafka-stream/assets/53899528/97b41740-9c90-4e80-a2ab-f9e4066cab2e
+
 
 # Table of Contents
 1. [Dashboard](#near-realtime-superset-dashboard-for-vehicle-telemetry-obtained-using-obdii)
@@ -20,8 +24,7 @@
     1. [Predictive Analyitcs]()
 
 
-# Near realtime Superset dashboard for vehicle telemetry obtained using OBDII
-![](diagrams/my_resources/demo-video.mp4)
+
 
 # Prequisites
 - [ELM327](https://www.amazon.com/Launchh-Professional-Bluetooth-Interface-Diagnostic/dp/B07Z65HX5X/ref=sr_1_4?keywords=elm327+bluetooth&qid=1698746835&sr=8-4)
