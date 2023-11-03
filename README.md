@@ -1,8 +1,7 @@
 # Stream and visualize vehicle telemetry using OBDII, Kafka and Superset
 ## Near realtime Superset dashboard for vehicle telemetry obtained using OBDII
 
-https://github.com/planck-length/vehicle-telemetry-kafka-stream/assets/53899528/97b41740-9c90-4e80-a2ab-f9e4066cab2e
-
+https://github.com/planck-length/vehicle-telemetry-kafka-stream/assets/53899528/38b1b1cc-806b-464a-a4c5-d84efb002432
 
 # Table of Contents
 1. [Dashboard](#near-realtime-superset-dashboard-for-vehicle-telemetry-obtained-using-obdii)
